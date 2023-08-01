@@ -19,7 +19,7 @@ Windows Registry Editor Version 5.00
 
 [HKEY_CLASSES_ROOT\.shortcut]
 "PerceivedType"="text"
-
+ 
 
 [HKEY_CLASSES_ROOT\.A]
 "PerceivedType"="text"
