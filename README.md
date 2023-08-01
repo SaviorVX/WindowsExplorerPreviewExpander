@@ -6,7 +6,7 @@ Windows Registry Editor Version 5.00
 ;  Thus A Quick Preview Is Allowed. 
 ;  Perfect For Analysis For A quick Preview Off : Dll Java Jar Python Etc
 
-[HKEY_CLASSES_ROOT\.lnk]
+[HKEY_CLASSES_ROOT\ .lnk]
 
 "PerceivedType"="text"
 
