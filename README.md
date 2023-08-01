@@ -6,7 +6,6 @@
 
 Windows Registry Editor Version 5.00
 
-
 [HKEY_CLASSES_ROOT\.ink]
 "PerceivedType"="text"
 
