@@ -6,2715 +6,2715 @@ Windows Registry Editor Version 5.00
 ;  Thus A Quick Preview Is Allowed. 
 ;  Perfect For Analysis For A quick Preview Off : Dll Java Jar Python Etc
 
-[HKEY_CLASSES_ROOT\ .lnk]
+[HKEY_CLASSES_ROOT\  .lnk]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.link]
+[HKEY_CLASSES_ROOT\ .link]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.shortcut]
+[HKEY_CLASSES_ROOT\  .shortcut]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.A]
+[HKEY_CLASSES_ROOT\  .A]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.B]
+[HKEY_CLASSES_ROOT\ .B]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.C]
+[HKEY_CLASSES_ROOT\ .C]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.D]
+[HKEY_CLASSES_ROOT\ .D]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.E]
+[HKEY_CLASSES_ROOT\ .E]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.F]
+[HKEY_CLASSES_ROOT\ .F]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.G]
+[HKEY_CLASSES_ROOT\ .G]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.H]
+[HKEY_CLASSES_ROOT\ .H]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.I]
+[HKEY_CLASSES_ROOT\ .I]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.J]
+[HKEY_CLASSES_ROOT\ .J]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.K]
+[HKEY_CLASSES_ROOT\ .K]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.L]
+[HKEY_CLASSES_ROOT\ .L]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.M]
+[HKEY_CLASSES_ROOT\ .M]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.N]
+[HKEY_CLASSES_ROOT\ .N]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.O]
+[HKEY_CLASSES_ROOT\ .O]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.P]
+[HKEY_CLASSES_ROOT\ .P]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.Q]
+[HKEY_CLASSES_ROOT\ .Q]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.R]
+[HKEY_CLASSES_ROOT\ .R]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.S]
+[HKEY_CLASSES_ROOT\ .S]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.T]
+[HKEY_CLASSES_ROOT\ .T]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.U]
+[HKEY_CLASSES_ROOT\ .U]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.V]
+[HKEY_CLASSES_ROOT\ .V]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.W]
+[HKEY_CLASSES_ROOT\ .W]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.Y]
+[HKEY_CLASSES_ROOT\ .Y]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.Z]
+[HKEY_CLASSES_ROOT\ .Z]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.DEV]
+[HKEY_CLASSES_ROOT\ .DEV]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.DSW]
+[HKEY_CLASSES_ROOT\ .DSW]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.DSP]
+[HKEY_CLASSES_ROOT\ .DSP]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.NEW]
+[HKEY_CLASSES_ROOT\ .NEW]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.2]
+[HKEY_CLASSES_ROOT\ .2]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.3]
+[HKEY_CLASSES_ROOT\ .3]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.4]
+[HKEY_CLASSES_ROOT\ .4]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.5]
+[HKEY_CLASSES_ROOT\ .5]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.so]
+[HKEY_CLASSES_ROOT\ .so]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.cat]
+[HKEY_CLASSES_ROOT\ .cat]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.pnf]
+[HKEY_CLASSES_ROOT\ .pnf]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.db]
+[HKEY_CLASSES_ROOT\ .db]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.db3]
+[HKEY_CLASSES_ROOT\ .db3]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.32]
+[HKEY_CLASSES_ROOT\ .32]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.64]
+[HKEY_CLASSES_ROOT\ .64]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.x64]
+[HKEY_CLASSES_ROOT\ .x64]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.x32]
+[HKEY_CLASSES_ROOT\ .x32]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.x86]
+[HKEY_CLASSES_ROOT\ .x86]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.READ]
+[HKEY_CLASSES_ROOT\ .READ]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.README]
+[HKEY_CLASSES_ROOT\ .README]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.LIB]
+[HKEY_CLASSES_ROOT\ .LIB]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.EXP]
+[HKEY_CLASSES_ROOT\ .EXP]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.PDB]
+[HKEY_CLASSES_ROOT\ .PDB]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.-]
+[HKEY_CLASSES_ROOT\ .-]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.CR]
+[HKEY_CLASSES_ROOT\ .CR]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.NIF]
+[HKEY_CLASSES_ROOT\ .NIF]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.DOWNLOAD]
+[HKEY_CLASSES_ROOT\ .DOWNLOAD]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.crdownload]
+[HKEY_CLASSES_ROOT\ .crdownload]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.OLD]
+[HKEY_CLASSES_ROOT\ .OLD]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.JFM]
+[HKEY_CLASSES_ROOT\ .JFM]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.PDF]
+[HKEY_CLASSES_ROOT\ .PDF]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\FILE]
+[HKEY_CLASSES_ROOT\ FILE]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.USF]
+[HKEY_CLASSES_ROOT\ .USF]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\OEM4]
+[HKEY_CLASSES_ROOT\ OEM4]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\OEM]
+[HKEY_CLASSES_ROOT\ OEM]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\OEM1]
+[HKEY_CLASSES_ROOT\ OEM1]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\OEM2]
+[HKEY_CLASSES_ROOT\ OEM2]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\OEM3]
+[HKEY_CLASSES_ROOT\ OEM3]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\OEM5]
+[HKEY_CLASSES_ROOT\ OEM5]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.regtrans-ms]
+[HKEY_CLASSES_ROOT\ .regtrans-ms]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.reg]
+[HKEY_CLASSES_ROOT\ .reg]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.regtrans]
+[HKEY_CLASSES_ROOT\ .regtrans]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.ms]
+[HKEY_CLASSES_ROOT\ .ms]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.blf]
+[HKEY_CLASSES_ROOT\ .blf]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.AX]
+[HKEY_CLASSES_ROOT\ .AX]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.mof]
+[HKEY_CLASSES_ROOT\ .mof]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.cpa]
+[HKEY_CLASSES_ROOT\ .cpa]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.CPL]
+[HKEY_CLASSES_ROOT\ .CPL]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.CPi]
+[HKEY_CLASSES_ROOT\ .CPi]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.cpx]
+[HKEY_CLASSES_ROOT\ .cpx]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.iec]
+[HKEY_CLASSES_ROOT\ .iec]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.drv]
+[HKEY_CLASSES_ROOT\ .drv]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.nls]
+[HKEY_CLASSES_ROOT\ .nls]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.msc]
+[HKEY_CLASSES_ROOT\ .msc]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.com]
+[HKEY_CLASSES_ROOT\ .com]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.rs]
+[HKEY_CLASSES_ROOT\ .rs]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.rsp]
+[HKEY_CLASSES_ROOT\ .rsp]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.sep]
+[HKEY_CLASSES_ROOT\ .sep]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.config]
+[HKEY_CLASSES_ROOT\ .config]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.sdi]
+[HKEY_CLASSES_ROOT\ .sdi]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.nis]
+[HKEY_CLASSES_ROOT\ .nis]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.uec]
+[HKEY_CLASSES_ROOT\ .uec]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.uce]
+[HKEY_CLASSES_ROOT\ .uce]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.iem]
+[HKEY_CLASSES_ROOT\ .iem]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.tsp]
+[HKEY_CLASSES_ROOT\ .tsp]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.ts]
+[HKEY_CLASSES_ROOT\ .ts]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.vsp]
+[HKEY_CLASSES_ROOT\ .vsp]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.vp]
+[HKEY_CLASSES_ROOT\ .vp]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.inf]
+[HKEY_CLASSES_ROOT\ .inf]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.acm]
+[HKEY_CLASSES_ROOT\ .acm]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\LOG]
+[HKEY_CLASSES_ROOT\ LOG]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\LOG1]
+[HKEY_CLASSES_ROOT\ LOG1]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\LOG2]
+[HKEY_CLASSES_ROOT\ LOG2]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\LOG3]
+[HKEY_CLASSES_ROOT\ LOG3]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\LOG4]
+[HKEY_CLASSES_ROOT\ LOG4]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\LOG5]
+[HKEY_CLASSES_ROOT\ LOG5]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.]
+[HKEY_CLASSES_ROOT\ .]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.!!!]
+[HKEY_CLASSES_ROOT\ .!!!]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.$00]
+[HKEY_CLASSES_ROOT\ .$00]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.$02]
+[HKEY_CLASSES_ROOT\ .$02]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.$04]
+[HKEY_CLASSES_ROOT\ .$04]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.$01]
+[HKEY_CLASSES_ROOT\ .$01]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.$05]
+[HKEY_CLASSES_ROOT\ .$05]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.$o1]
+[HKEY_CLASSES_ROOT\ .$o1]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.$ol]
+[HKEY_CLASSES_ROOT\ .$ol]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.001]
+[HKEY_CLASSES_ROOT\ .001]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.1]
+[HKEY_CLASSES_ROOT\ .1]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.1st]
+[HKEY_CLASSES_ROOT\ .1st]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.7]
+[HKEY_CLASSES_ROOT\ .7]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.82t]
+[HKEY_CLASSES_ROOT\ .82t]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.89t]
+[HKEY_CLASSES_ROOT\ .89t]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.92t]
+[HKEY_CLASSES_ROOT\ .92t]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.9xt]
+[HKEY_CLASSES_ROOT\ .9xt]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\._me]
+[HKEY_CLASSES_ROOT\ ._me]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.abt]
+[HKEY_CLASSES_ROOT\ .abt]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.ac]
+[HKEY_CLASSES_ROOT\ .ac]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.adium]
+[HKEY_CLASSES_ROOT\ .adium]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.adiumlog]
+[HKEY_CLASSES_ROOT\ .adiumlog]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.adl]
+[HKEY_CLASSES_ROOT\ .adl]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.adoc]
+[HKEY_CLASSES_ROOT\ .adoc]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.adt]
+[HKEY_CLASSES_ROOT\ .adt]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.adw]
+[HKEY_CLASSES_ROOT\ .adw]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.alx]
+[HKEY_CLASSES_ROOT\ .alx]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.aml]
+[HKEY_CLASSES_ROOT\ .aml]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.android]
+[HKEY_CLASSES_ROOT\ .android]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.annot]
+[HKEY_CLASSES_ROOT\ .annot]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.ans]
+[HKEY_CLASSES_ROOT\ .ans]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.ansi]
+[HKEY_CLASSES_ROOT\ .ansi]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.application]
+[HKEY_CLASSES_ROOT\ .application]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.aprj]
+[HKEY_CLASSES_ROOT\ .aprj]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.aqt]
+[HKEY_CLASSES_ROOT\ .aqt]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.arff]
+[HKEY_CLASSES_ROOT\ .arff]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.artask]
+[HKEY_CLASSES_ROOT\ .artask]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.asc]
+[HKEY_CLASSES_ROOT\ .asc]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.ascii]
+[HKEY_CLASSES_ROOT\ .ascii]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.asl]
+[HKEY_CLASSES_ROOT\ .asl]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.asp]
+[HKEY_CLASSES_ROOT\ .asp]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.ass]
+[HKEY_CLASSES_ROOT\ .ass]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.assoc]
+[HKEY_CLASSES_ROOT\ .assoc]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.att]
+[HKEY_CLASSES_ROOT\ .att]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.awa]
+[HKEY_CLASSES_ROOT\ .awa]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.awb]
+[HKEY_CLASSES_ROOT\ .awb]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.awh]
+[HKEY_CLASSES_ROOT\ .awh]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.axt]
+[HKEY_CLASSES_ROOT\ .axt]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.ba1]
+[HKEY_CLASSES_ROOT\ .ba1]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.bad]
+[HKEY_CLASSES_ROOT\ .bad]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.bas]
+[HKEY_CLASSES_ROOT\ .bas]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.bbs]
+[HKEY_CLASSES_ROOT\ .bbs]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.bbxt]
+[HKEY_CLASSES_ROOT\ .bbxt]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.bcr]
+[HKEY_CLASSES_ROOT\ .bcr]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.bdn]
+[HKEY_CLASSES_ROOT\ .bdn]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.bdp]
+[HKEY_CLASSES_ROOT\ .bdp]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.bdr]
+[HKEY_CLASSES_ROOT\ .bdr]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.bea]
+[HKEY_CLASSES_ROOT\ .bea]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.bel]
+[HKEY_CLASSES_ROOT\ .bel]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.bep]
+[HKEY_CLASSES_ROOT\ .bep]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.big]
+[HKEY_CLASSES_ROOT\ .big]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.big5]
+[HKEY_CLASSES_ROOT\ .big5]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.bk]
+[HKEY_CLASSES_ROOT\ .bk]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.blm]
+[HKEY_CLASSES_ROOT\ .blm]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.bln]
+[HKEY_CLASSES_ROOT\ .bln]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.blw]
+[HKEY_CLASSES_ROOT\ .blw]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.bna]
+[HKEY_CLASSES_ROOT\ .bna]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.bnx]
+[HKEY_CLASSES_ROOT\ .bnx]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.bog]
+[HKEY_CLASSES_ROOT\ .bog]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.bpdx]
+[HKEY_CLASSES_ROOT\ .bpdx]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.brf]
+[HKEY_CLASSES_ROOT\ .brf]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.bsdl]
+[HKEY_CLASSES_ROOT\ .bsdl]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.bss]
+[HKEY_CLASSES_ROOT\ .bss]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.bt]
+[HKEY_CLASSES_ROOT\ .bt]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.cag]
+[HKEY_CLASSES_ROOT\ .cag]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.cas]
+[HKEY_CLASSES_ROOT\ .cas]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.cc]
+[HKEY_CLASSES_ROOT\ .cc]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.cd2]
+[HKEY_CLASSES_ROOT\ .cd2]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.cdt]
+[HKEY_CLASSES_ROOT\ .cdt]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.charset]
+[HKEY_CLASSES_ROOT\ .charset]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.SET]
+[HKEY_CLASSES_ROOT\ .SET]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.cho]
+[HKEY_CLASSES_ROOT\ .cho]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.chord]
+[HKEY_CLASSES_ROOT\ .chord]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.cif]
+[HKEY_CLASSES_ROOT\ .cif]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.cil]
+[HKEY_CLASSES_ROOT\ .cil]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.ckn]
+[HKEY_CLASSES_ROOT\ .ckn]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.clg]
+[HKEY_CLASSES_ROOT\ .clg]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.CLIP]
+[HKEY_CLASSES_ROOT\ .CLIP]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.clipping]
+[HKEY_CLASSES_ROOT\ .clipping]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.clix]
+[HKEY_CLASSES_ROOT\ .clix]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.cm0013]
+[HKEY_CLASSES_ROOT\ .cm0013]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.code]
+[HKEY_CLASSES_ROOT\ .code]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.cof]
+[HKEY_CLASSES_ROOT\ .cof]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.con]
+[HKEY_CLASSES_ROOT\ .con]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.ca]
+[HKEY_CLASSES_ROOT\ .ca]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.cm]
+[HKEY_CLASSES_ROOT\ .cm]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.cfg]
+[HKEY_CLASSES_ROOT\ .cfg]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.conf]
+[HKEY_CLASSES_ROOT\ .conf]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.coo]
+[HKEY_CLASSES_ROOT\ .coo]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.crash]
+[HKEY_CLASSES_ROOT\ .crash]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.crd]
+[HKEY_CLASSES_ROOT\ .crd]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.crwl]
+[HKEY_CLASSES_ROOT\ .crwl]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.CS]
+[HKEY_CLASSES_ROOT\ .CS]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.ASSEMBLY]
+[HKEY_CLASSES_ROOT\ .ASSEMBLY]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.csassembly]
+[HKEY_CLASSES_ROOT\ .csassembly]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.csv]
+[HKEY_CLASSES_ROOT\ .csv]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.ctd]
+[HKEY_CLASSES_ROOT\ .ctd]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.ctf]
+[HKEY_CLASSES_ROOT\ .ctf]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.ctl]
+[HKEY_CLASSES_ROOT\ .ctl]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.ctx]
+[HKEY_CLASSES_ROOT\ .ctx]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.curl]
+[HKEY_CLASSES_ROOT\ .curl]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.dat]
+[HKEY_CLASSES_ROOT\ .dat]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.dbt]
+[HKEY_CLASSES_ROOT\ .dbt]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.dcd]
+[HKEY_CLASSES_ROOT\ .dcd]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.dce]
+[HKEY_CLASSES_ROOT\ .dce]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.ddd]
+[HKEY_CLASSES_ROOT\ .ddd]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.de]
+[HKEY_CLASSES_ROOT\ .de]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.dea]
+[HKEY_CLASSES_ROOT\ .dea]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.dectest]
+[HKEY_CLASSES_ROOT\ .dectest]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.dec]
+[HKEY_CLASSES_ROOT\ .dec]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.test]
+[HKEY_CLASSES_ROOT\ .test]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.des]
+[HKEY_CLASSES_ROOT\ .des]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.desc]
+[HKEY_CLASSES_ROOT\ .desc]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.dfe]
+[HKEY_CLASSES_ROOT\ .dfe]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.dfm]
+[HKEY_CLASSES_ROOT\ .dfm]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.dii]
+[HKEY_CLASSES_ROOT\ .dii]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.defines]
+[HKEY_CLASSES_ROOT\ .defines]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.diskdefines]
+[HKEY_CLASSES_ROOT\ .diskdefines]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.DOC]
+[HKEY_CLASSES_ROOT\ .DOC]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.diz]
+[HKEY_CLASSES_ROOT\ .diz]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.dk]
+[HKEY_CLASSES_ROOT\ .dk]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.dkz]
+[HKEY_CLASSES_ROOT\ .dkz]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.dmr]
+[HKEY_CLASSES_ROOT\ .dmr]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.dne]
+[HKEY_CLASSES_ROOT\ .dne]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.dok]
+[HKEY_CLASSES_ROOT\ .dok]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.Pas]
+[HKEY_CLASSES_ROOT\ .Pas]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.DRP]
+[HKEY_CLASSES_ROOT\ .DRP]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.DOF]
+[HKEY_CLASSES_ROOT\ .DOF]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.dp]
+[HKEY_CLASSES_ROOT\ .dp]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.dpv]
+[HKEY_CLASSES_ROOT\ .dpv]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.dqy]
+[HKEY_CLASSES_ROOT\ .dqy]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.drp]
+[HKEY_CLASSES_ROOT\ .drp]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.dsc]
+[HKEY_CLASSES_ROOT\ .dsc]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.dsml]
+[HKEY_CLASSES_ROOT\ .dsml]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.dtd]
+[HKEY_CLASSES_ROOT\ .dtd]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.ecsv]
+[HKEY_CLASSES_ROOT\ .ecsv]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.edml]
+[HKEY_CLASSES_ROOT\ .edml]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.efm]
+[HKEY_CLASSES_ROOT\ .efm]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.eia]
+[HKEY_CLASSES_ROOT\ .eia]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.emulecollection]
+[HKEY_CLASSES_ROOT\ .emulecollection]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.ING]
+[HKEY_CLASSES_ROOT\ .ING]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.LNG]
+[HKEY_CLASSES_ROOT\ .LNG]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.EMULE]
+[HKEY_CLASSES_ROOT\ .EMULE]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.COLLECT]
+[HKEY_CLASSES_ROOT\ .COLLECT]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.COLLECTION]
+[HKEY_CLASSES_ROOT\ .COLLECTION]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.EMU]
+[HKEY_CLASSES_ROOT\ .EMU]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.fr]
+[HKEY_CLASSES_ROOT\ .fr]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.uk]
+[HKEY_CLASSES_ROOT\ .uk]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.ca]
+[HKEY_CLASSES_ROOT\ .ca]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.cm]
+[HKEY_CLASSES_ROOT\ .cm]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.go]
+[HKEY_CLASSES_ROOT\ .go]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.rust]
+[HKEY_CLASSES_ROOT\ .rust]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.en]
+[HKEY_CLASSES_ROOT\ .en]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.enc]
+[HKEY_CLASSES_ROOT\ .enc]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.enf]
+[HKEY_CLASSES_ROOT\ .enf]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.err]
+[HKEY_CLASSES_ROOT\ .err]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.es]
+[HKEY_CLASSES_ROOT\ .es]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.etf]
+[HKEY_CLASSES_ROOT\ .etf]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.etx]
+[HKEY_CLASSES_ROOT\ .etx]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.euc]
+[HKEY_CLASSES_ROOT\ .euc]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.ext]
+[HKEY_CLASSES_ROOT\ .ext]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.extra]
+[HKEY_CLASSES_ROOT\ .extra]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.faq]
+[HKEY_CLASSES_ROOT\ .faq]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.fff]
+[HKEY_CLASSES_ROOT\ .fff]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.ffp]
+[HKEY_CLASSES_ROOT\ .ffp]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.fil]
+[HKEY_CLASSES_ROOT\ .fil]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.file]
+[HKEY_CLASSES_ROOT\ .file]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.fin]
+[HKEY_CLASSES_ROOT\ .fin]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.first]
+[HKEY_CLASSES_ROOT\ .first]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.flr]
+[HKEY_CLASSES_ROOT\ .flr]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.fnx]
+[HKEY_CLASSES_ROOT\ .fnx]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.fpt]
+[HKEY_CLASSES_ROOT\ .fpt]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.fr]
+[HKEY_CLASSES_ROOT\ .fr]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.fra]
+[HKEY_CLASSES_ROOT\ .fra]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.frm]
+[HKEY_CLASSES_ROOT\ .frm]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.fsa]
+[HKEY_CLASSES_ROOT\ .fsa]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.full]
+[HKEY_CLASSES_ROOT\ .full]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.gbf]
+[HKEY_CLASSES_ROOT\ .gbf]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.gen]
+[HKEY_CLASSES_ROOT\ .gen]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.ger]
+[HKEY_CLASSES_ROOT\ .ger]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.gnu]
+[HKEY_CLASSES_ROOT\ .gnu]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.gpl]
+[HKEY_CLASSES_ROOT\ .gpl]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.gthr]
+[HKEY_CLASSES_ROOT\ .gthr]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.gtx]
+[HKEY_CLASSES_ROOT\ .gtx]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.guide]
+[HKEY_CLASSES_ROOT\ .guide]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.hdr]
+[HKEY_CLASSES_ROOT\ .hdr]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.hhc]
+[HKEY_CLASSES_ROOT\ .hhc]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.hhs]
+[HKEY_CLASSES_ROOT\ .hhs]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.hlm]
+[HKEY_CLASSES_ROOT\ .hlm]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.hpm]
+[HKEY_CLASSES_ROOT\ .hpm]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.hs]
+[HKEY_CLASSES_ROOT\ .hs]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.htm]
+[HKEY_CLASSES_ROOT\ .htm]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.html]
+[HKEY_CLASSES_ROOT\ .html]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.html5]
+[HKEY_CLASSES_ROOT\ .html5]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.htmls]
+[HKEY_CLASSES_ROOT\ .htmls]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.htx]
+[HKEY_CLASSES_ROOT\ .htx]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.hvc]
+[HKEY_CLASSES_ROOT\ .hvc]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.hz]
+[HKEY_CLASSES_ROOT\ .hz]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.id31]
+[HKEY_CLASSES_ROOT\ .id31]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.idc]
+[HKEY_CLASSES_ROOT\ .idc]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.idt]
+[HKEY_CLASSES_ROOT\ .idt]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.idx]
+[HKEY_CLASSES_ROOT\ .idx]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.iem]
+[HKEY_CLASSES_ROOT\ .iem]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.igv]
+[HKEY_CLASSES_ROOT\ .igv]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.igy]
+[HKEY_CLASSES_ROOT\ .igy]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.iif]
+[HKEY_CLASSES_ROOT\ .iif]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.ill]
+[HKEY_CLASSES_ROOT\ .ill]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.inc]
+[HKEY_CLASSES_ROOT\ .inc]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.inuse]
+[HKEY_CLASSES_ROOT\ .inuse]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.ion]
+[HKEY_CLASSES_ROOT\ .ion]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.ipr]
+[HKEY_CLASSES_ROOT\ .ipr]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.isi]
+[HKEY_CLASSES_ROOT\ .isi]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.isr]
+[HKEY_CLASSES_ROOT\ .isr]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.it]
+[HKEY_CLASSES_ROOT\ .it]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.ja]
+[HKEY_CLASSES_ROOT\ .ja]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.jam]
+[HKEY_CLASSES_ROOT\ .jam]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.jeb]
+[HKEY_CLASSES_ROOT\ .jeb]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.jis]
+[HKEY_CLASSES_ROOT\ .jis]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.jp1]
+[HKEY_CLASSES_ROOT\ .jp1]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.jss]
+[HKEY_CLASSES_ROOT\ .jss]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.jtx]
+[HKEY_CLASSES_ROOT\ .jtx]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.kahl]
+[HKEY_CLASSES_ROOT\ .kahl]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.kar]
+[HKEY_CLASSES_ROOT\ .kar]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.kch]
+[HKEY_CLASSES_ROOT\ .kch]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.kix]
+[HKEY_CLASSES_ROOT\ .kix]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.klg]
+[HKEY_CLASSES_ROOT\ .klg]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.kor]
+[HKEY_CLASSES_ROOT\ .kor]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.la]
+[HKEY_CLASSES_ROOT\ .la]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.label]
+[HKEY_CLASSES_ROOT\ .label]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.language]
+[HKEY_CLASSES_ROOT\ .language]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.las]
+[HKEY_CLASSES_ROOT\ .las]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.lay]
+[HKEY_CLASSES_ROOT\ .lay]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.ldf]
+[HKEY_CLASSES_ROOT\ .ldf]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.lin]
+[HKEY_CLASSES_ROOT\ .lin]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.linux]
+[HKEY_CLASSES_ROOT\ .linux]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.linx]
+[HKEY_CLASSES_ROOT\ .linx]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.lisp]
+[HKEY_CLASSES_ROOT\ .lisp]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.lnc]
+[HKEY_CLASSES_ROOT\ .lnc]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.lo_]
+[HKEY_CLASSES_ROOT\ .lo_]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.log]
+[HKEY_CLASSES_ROOT\ .log]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.lrc]
+[HKEY_CLASSES_ROOT\ .lrc]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.lst]
+[HKEY_CLASSES_ROOT\ .lst]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.ltr]
+[HKEY_CLASSES_ROOT\ .ltr]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.ltt]
+[HKEY_CLASSES_ROOT\ .ltt]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.ltx]
+[HKEY_CLASSES_ROOT\ .ltx]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.lue]
+[HKEY_CLASSES_ROOT\ .lue]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.luf]
+[HKEY_CLASSES_ROOT\ .luf]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.lwd]
+[HKEY_CLASSES_ROOT\ .lwd]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.lxfml]
+[HKEY_CLASSES_ROOT\ .lxfml]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.lyr]
+[HKEY_CLASSES_ROOT\ .lyr]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.lyt]
+[HKEY_CLASSES_ROOT\ .lyt]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.macro]
+[HKEY_CLASSES_ROOT\ .macro]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.man]
+[HKEY_CLASSES_ROOT\ .man]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.manifest]
+[HKEY_CLASSES_ROOT\ .manifest]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.map]
+[HKEY_CLASSES_ROOT\ .map]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.mar]
+[HKEY_CLASSES_ROOT\ .mar]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.markdown]
+[HKEY_CLASSES_ROOT\ .markdown]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.Markdown]
+[HKEY_CLASSES_ROOT\ .Markdown]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.markup]
+[HKEY_CLASSES_ROOT\ .markup]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.mathml]
+[HKEY_CLASSES_ROOT\ .mathml]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.maxfr]
+[HKEY_CLASSES_ROOT\ .maxfr]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.mcw]
+[HKEY_CLASSES_ROOT\ .mcw]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.md]
+[HKEY_CLASSES_ROOT\ .md]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.mdle]
+[HKEY_CLASSES_ROOT\ .mdle]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.mdown]
+[HKEY_CLASSES_ROOT\ .mdown]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.mdtext]
+[HKEY_CLASSES_ROOT\ .mdtext]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.mdtxt]
+[HKEY_CLASSES_ROOT\ .mdtxt]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.mdwn]
+[HKEY_CLASSES_ROOT\ .mdwn]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.mez]
+[HKEY_CLASSES_ROOT\ .mez]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.mf]
+[HKEY_CLASSES_ROOT\ .mf]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.mib]
+[HKEY_CLASSES_ROOT\ .mib]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.mit]
+[HKEY_CLASSES_ROOT\ .mit]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.mkd]
+[HKEY_CLASSES_ROOT\ .mkd]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.mkdn]
+[HKEY_CLASSES_ROOT\ .mkdn]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.modd]
+[HKEY_CLASSES_ROOT\ .modd]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.mp3]
+[HKEY_CLASSES_ROOT\ .mp3]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.mpl]
+[HKEY_CLASSES_ROOT\ .mpl]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.mpsub]
+[HKEY_CLASSES_ROOT\ .mpsub]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.mss]
+[HKEY_CLASSES_ROOT\ .mss]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.mtx]
+[HKEY_CLASSES_ROOT\ .mtx]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.mtxt]
+[HKEY_CLASSES_ROOT\ .mtxt]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.mw]
+[HKEY_CLASSES_ROOT\ .mw]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.nbr]
+[HKEY_CLASSES_ROOT\ .nbr]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.nclk]
+[HKEY_CLASSES_ROOT\ .nclk]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.new]
+[HKEY_CLASSES_ROOT\ .new]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.nfo]
+[HKEY_CLASSES_ROOT\ .nfo]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.nlc]
+[HKEY_CLASSES_ROOT\ .nlc]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.nmbd]
+[HKEY_CLASSES_ROOT\ .nmbd]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.nna]
+[HKEY_CLASSES_ROOT\ .nna]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.nokogiri]
+[HKEY_CLASSES_ROOT\ .nokogiri]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.not]
+[HKEY_CLASSES_ROOT\ .not]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.notes]
+[HKEY_CLASSES_ROOT\ .notes]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.now]
+[HKEY_CLASSES_ROOT\ .now]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.nt]
+[HKEY_CLASSES_ROOT\ .nt]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.nwctxt]
+[HKEY_CLASSES_ROOT\ .nwctxt]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.ocr]
+[HKEY_CLASSES_ROOT\ .ocr]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.odc]
+[HKEY_CLASSES_ROOT\ .odc]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.oh]
+[HKEY_CLASSES_ROOT\ .oh]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.ojp]
+[HKEY_CLASSES_ROOT\ .ojp]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.omn]
+[HKEY_CLASSES_ROOT\ .omn]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.oogl]
+[HKEY_CLASSES_ROOT\ .oogl]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.oot]
+[HKEY_CLASSES_ROOT\ .oot]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.opc]
+[HKEY_CLASSES_ROOT\ .opc]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.openbsd]
+[HKEY_CLASSES_ROOT\ .openbsd]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.opml]
+[HKEY_CLASSES_ROOT\ .opml]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.ort]
+[HKEY_CLASSES_ROOT\ .ort]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.osi]
+[HKEY_CLASSES_ROOT\ .osi]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.osn]
+[HKEY_CLASSES_ROOT\ .osn]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.p3x]
+[HKEY_CLASSES_ROOT\ .p3x]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.pac]
+[HKEY_CLASSES_ROOT\ .pac]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.panic]
+[HKEY_CLASSES_ROOT\ .panic]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.pc5]
+[HKEY_CLASSES_ROOT\ .pc5]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.pcc
+[HKEY_CLASSES_ROOT\ .pcc
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.panic]
+[HKEY_CLASSES_ROOT\ .panic]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.pcl]
+[HKEY_CLASSES_ROOT\ .pcl]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.pd]
+[HKEY_CLASSES_ROOT\ .pd]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.pdu]
+[HKEY_CLASSES_ROOT\ .pdu]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.pfs]
+[HKEY_CLASSES_ROOT\ .pfs]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.pgw]
+[HKEY_CLASSES_ROOT\ .pgw]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.phr]
+[HKEY_CLASSES_ROOT\ .phr]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.pjs]
+[HKEY_CLASSES_ROOT\ .pjs]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.pl]
+[HKEY_CLASSES_ROOT\ .pl]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.pla]
+[HKEY_CLASSES_ROOT\ .pla]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.plf]
+[HKEY_CLASSES_ROOT\ .plf]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.plist]
+[HKEY_CLASSES_ROOT\ .plist]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.plk]
+[HKEY_CLASSES_ROOT\ .plk]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.pln]
+[HKEY_CLASSES_ROOT\ .pln]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.pmo]
+[HKEY_CLASSES_ROOT\ .pmo]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.pod]
+[HKEY_CLASSES_ROOT\ .pod]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.prc]
+[HKEY_CLASSES_ROOT\ .prc]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.prn]
+[HKEY_CLASSES_ROOT\ .prn]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.project]
+[HKEY_CLASSES_ROOT\ .project]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.DOWNLOAD]
+[HKEY_CLASSES_ROOT\ .DOWNLOAD]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.prr]
+[HKEY_CLASSES_ROOT\ .prr]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.psb]
+[HKEY_CLASSES_ROOT\ .psb]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.pt3]
+[HKEY_CLASSES_ROOT\ .pt3]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.pvj]
+[HKEY_CLASSES_ROOT\ .pvj]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.pvw]
+[HKEY_CLASSES_ROOT\ .pvw]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.q&a]
+[HKEY_CLASSES_ROOT\ .q&a]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.qdt]
+[HKEY_CLASSES_ROOT\ .qdt]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.qud]
+[HKEY_CLASSES_ROOT\ .qud]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.rdf]
+[HKEY_CLASSES_ROOT\ .rdf]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.rea]
+[HKEY_CLASSES_ROOT\ .rea]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.readme]
+[HKEY_CLASSES_ROOT\ .readme]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.reg]
+[HKEY_CLASSES_ROOT\ .reg]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.report]
+[HKEY_CLASSES_ROOT\ .report]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.resp]
+[HKEY_CLASSES_ROOT\ .resp]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.rest]
+[HKEY_CLASSES_ROOT\ .rest]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.rff]
+[HKEY_CLASSES_ROOT\ .rff]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.ris]
+[HKEY_CLASSES_ROOT\ .ris]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.rml]
+[HKEY_CLASSES_ROOT\ .rml]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.rst]
+[HKEY_CLASSES_ROOT\ .rst]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.rt]
+[HKEY_CLASSES_ROOT\ .rt]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.rtf]
+[HKEY_CLASSES_ROOT\ .rtf]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.rtl]
+[HKEY_CLASSES_ROOT\ .rtl]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.rtx]
+[HKEY_CLASSES_ROOT\ .rtx]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.ru]
+[HKEY_CLASSES_ROOT\ .ru]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.rus]
+[HKEY_CLASSES_ROOT\ .rus]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.rzn]
+[HKEY_CLASSES_ROOT\ .rzn]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.s19]
+[HKEY_CLASSES_ROOT\ .s19]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.s2k]
+[HKEY_CLASSES_ROOT\ .s2k]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.s2s]
+[HKEY_CLASSES_ROOT\ .s2s]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.sami]
+[HKEY_CLASSES_ROOT\ .sami]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.sbv]
+[HKEY_CLASSES_ROOT\ .sbv]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.sdnf]
+[HKEY_CLASSES_ROOT\ .sdnf]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.sen]
+[HKEY_CLASSES_ROOT\ .sen]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.seq]
+[HKEY_CLASSES_ROOT\ .seq]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.sfb]
+[HKEY_CLASSES_ROOT\ .sfb]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.sha1]
+[HKEY_CLASSES_ROOT\ .sha1]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.sha512]
+[HKEY_CLASSES_ROOT\ .sha512]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.sk]
+[HKEY_CLASSES_ROOT\ .sk]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.skcard]
+[HKEY_CLASSES_ROOT\ .skcard]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.skv]
+[HKEY_CLASSES_ROOT\ .skv]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.smali]
+[HKEY_CLASSES_ROOT\ .smali]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.smf]
+[HKEY_CLASSES_ROOT\ .smf]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.smi]
+[HKEY_CLASSES_ROOT\ .smi]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.sms]
+[HKEY_CLASSES_ROOT\ .sms]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.snw]
+[HKEY_CLASSES_ROOT\ .snw]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.soap]
+[HKEY_CLASSES_ROOT\ .soap]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.script]
+[HKEY_CLASSES_ROOT\ .script]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.soundscript]
+[HKEY_CLASSES_ROOT\ .soundscript]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.source]
+[HKEY_CLASSES_ROOT\ .source]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.spec]
+[HKEY_CLASSES_ROOT\ .spec]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.spg]
+[HKEY_CLASSES_ROOT\ .spg]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.spn]
+[HKEY_CLASSES_ROOT\ .spn]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.spx]
+[HKEY_CLASSES_ROOT\ .spx]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.srt]
+[HKEY_CLASSES_ROOT\ .srt]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.srx]
+[HKEY_CLASSES_ROOT\ .srx]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.ssa]
+[HKEY_CLASSES_ROOT\ .ssa]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.ssf]
+[HKEY_CLASSES_ROOT\ .ssf]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.st1]
+[HKEY_CLASSES_ROOT\ .st1]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.STRING]
+[HKEY_CLASSES_ROOT\ .STRING]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.strings]
+[HKEY_CLASSES_ROOT\ .strings]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.sub]
+[HKEY_CLASSES_ROOT\ .sub]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.DESKTOP]
+[HKEY_CLASSES_ROOT\ .DESKTOP]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.DOCUMENT]
+[HKEY_CLASSES_ROOT\ .DOCUMENT]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.syn]
+[HKEY_CLASSES_ROOT\ .syn]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.t2t]
+[HKEY_CLASSES_ROOT\ .t2t]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.tab]
+[HKEY_CLASSES_ROOT\ .tab]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.tbd]
+[HKEY_CLASSES_ROOT\ .tbd]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.tbl]
+[HKEY_CLASSES_ROOT\ .tbl]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.tce]
+[HKEY_CLASSES_ROOT\ .tce]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.tcm]
+[HKEY_CLASSES_ROOT\ .tcm]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.tdf]
+[HKEY_CLASSES_ROOT\ .tdf]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.tdump]
+[HKEY_CLASSES_ROOT\ .tdump]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.ted]
+[HKEY_CLASSES_ROOT\ .ted]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.text]
+[HKEY_CLASSES_ROOT\ .text]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.textclipping]
+[HKEY_CLASSES_ROOT\ .textclipping]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.textile]
+[HKEY_CLASSES_ROOT\ .textile]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.tfw]
+[HKEY_CLASSES_ROOT\ .tfw]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.tgf]
+[HKEY_CLASSES_ROOT\ .tgf]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.thp]
+[HKEY_CLASSES_ROOT\ .thp]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.tlb]
+[HKEY_CLASSES_ROOT\ .tlb]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.tle]
+[HKEY_CLASSES_ROOT\ .tle]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.tlx]
+[HKEY_CLASSES_ROOT\ .tlx]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.tlx]
+[HKEY_CLASSES_ROOT\ .tlx]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.LUE]
+[HKEY_CLASSES_ROOT\ .LUE]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.Norton]
+[HKEY_CLASSES_ROOT\ .Norton]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.tm]
+[HKEY_CLASSES_ROOT\ .tm]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.tmprtf]
+[HKEY_CLASSES_ROOT\ .tmprtf]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.tmx]
+[HKEY_CLASSES_ROOT\ .tmx]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.tnef]
+[HKEY_CLASSES_ROOT\ .tnef]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.tph]
+[HKEY_CLASSES_ROOT\ .tph]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.trn]
+[HKEY_CLASSES_ROOT\ .trn]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.trt]
+[HKEY_CLASSES_ROOT\ .trt]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.tsv]
+[HKEY_CLASSES_ROOT\ .tsv]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.tt]
+[HKEY_CLASSES_ROOT\ .tt]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.ttbl]
+[HKEY_CLASSES_ROOT\ .ttbl]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.tte]
+[HKEY_CLASSES_ROOT\ .tte]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.ttf]
+[HKEY_CLASSES_ROOT\ .ttf]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.ttpl]
+[HKEY_CLASSES_ROOT\ .ttpl]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.ttxt]
+[HKEY_CLASSES_ROOT\ .ttxt]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.tx8]
+[HKEY_CLASSES_ROOT\ .tx8]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.tx?]
+[HKEY_CLASSES_ROOT\ .tx?]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.txa]
+[HKEY_CLASSES_ROOT\ .txa]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.txd]
+[HKEY_CLASSES_ROOT\ .txd]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.txe]
+[HKEY_CLASSES_ROOT\ .txe]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.txh]
+[HKEY_CLASSES_ROOT\ .txh]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.txk]
+[HKEY_CLASSES_ROOT\ .txk]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.txt]
+[HKEY_CLASSES_ROOT\ .txt]
 
-[HKEY_CLASSES_ROOT\.u3]
+[HKEY_CLASSES_ROOT\ .u3]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.uhtml]
+[HKEY_CLASSES_ROOT\ .uhtml]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.uk]
+[HKEY_CLASSES_ROOT\ .uk]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.unauth]
+[HKEY_CLASSES_ROOT\ .unauth]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.uni]
+[HKEY_CLASSES_ROOT\ .uni]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.unx]
+[HKEY_CLASSES_ROOT\ .unx]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.us]
+[HKEY_CLASSES_ROOT\ .us]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.user]
+[HKEY_CLASSES_ROOT\ .user]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.usf]
+[HKEY_CLASSES_ROOT\ .usf]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.usg]
+[HKEY_CLASSES_ROOT\ .usg]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.utf8]
+[HKEY_CLASSES_ROOT\ .utf8]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.utx]
+[HKEY_CLASSES_ROOT\ .utx]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.utxt]
+[HKEY_CLASSES_ROOT\ .utxt]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.v2t]
+[HKEY_CLASSES_ROOT\ .v2t]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.vcf]
+[HKEY_CLASSES_ROOT\ .vcf]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.ver]
+[HKEY_CLASSES_ROOT\ .ver]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.vers]
+[HKEY_CLASSES_ROOT\ .vers]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.vfk]
+[HKEY_CLASSES_ROOT\ .vfk]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.vhd]
+[HKEY_CLASSES_ROOT\ .vhd]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.vhdl]
+[HKEY_CLASSES_ROOT\ .vhdl]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.vis]
+[HKEY_CLASSES_ROOT\ .vis]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.vkp]
+[HKEY_CLASSES_ROOT\ .vkp]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.vmg]
+[HKEY_CLASSES_ROOT\ .vmg]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.vna]
+[HKEY_CLASSES_ROOT\ .vna]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.vsmproj]
+[HKEY_CLASSES_ROOT\ .vsmproj]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.vsmproj]
+[HKEY_CLASSES_ROOT\ .vsmproj]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.vtt]
+[HKEY_CLASSES_ROOT\ .vtt]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.vw]
+[HKEY_CLASSES_ROOT\ .vw]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.vw3]
+[HKEY_CLASSES_ROOT\ .vw3]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.vxml]
+[HKEY_CLASSES_ROOT\ .vxml]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.vzm]
+[HKEY_CLASSES_ROOT\ .vzm]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.wer]
+[HKEY_CLASSES_ROOT\ .wer]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.wkf]
+[HKEY_CLASSES_ROOT\ .wkf]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.wn]
+[HKEY_CLASSES_ROOT\ .wn]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.wrd]
+[HKEY_CLASSES_ROOT\ .wrd]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.wrl]
+[HKEY_CLASSES_ROOT\ .wrl]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.wsh]
+[HKEY_CLASSES_ROOT\ .wsh]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.wst]
+[HKEY_CLASSES_ROOT\ .wst]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.wtx]
+[HKEY_CLASSES_ROOT\ .wtx]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.x20]
+[HKEY_CLASSES_ROOT\ .x20]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.x60]
+[HKEY_CLASSES_ROOT\ .x60]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.x70]
+[HKEY_CLASSES_ROOT\ .x70]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.x8v0]
+[HKEY_CLASSES_ROOT\ .x8v0]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.x90vw3]
+[HKEY_CLASSES_ROOT\ .x90vw3]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.xc0]
+[HKEY_CLASSES_ROOT\ .xc0]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.xdl]
+[HKEY_CLASSES_ROOT\ .xdl]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.xdp]
+[HKEY_CLASSES_ROOT\ .xdp]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.xfd]
+[HKEY_CLASSES_ROOT\ .xfd]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.xff]
+[HKEY_CLASSES_ROOT\ .xff]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.xlf]
+[HKEY_CLASSES_ROOT\ .xlf]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.xlog]
+[HKEY_CLASSES_ROOT\ .xlog]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.xml]
+[HKEY_CLASSES_ROOT\ .xml]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.xmp]
+[HKEY_CLASSES_ROOT\ .xmp]
 
-[HKEY_CLASSES_ROOT\.xsd]
+[HKEY_CLASSES_ROOT\ .xsd]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.xsl]
+[HKEY_CLASSES_ROOT\ .xsl]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.xslt]
+[HKEY_CLASSES_ROOT\ .xslt]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.xsr]
+[HKEY_CLASSES_ROOT\ .xsr]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.xwp]
+[HKEY_CLASSES_ROOT\ .xwp]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.xy]
+[HKEY_CLASSES_ROOT\ .xy]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.xyp]
+[HKEY_CLASSES_ROOT\ .xyp]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.xyw]
+[HKEY_CLASSES_ROOT\ .xyw]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.xyz]
+[HKEY_CLASSES_ROOT\ .xyz]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.yml]
+[HKEY_CLASSES_ROOT\ .yml]
 
-[HKEY_CLASSES_ROOT\.zed]
+[HKEY_CLASSES_ROOT\ .zed]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.zhp]
+[HKEY_CLASSES_ROOT\ .zhp]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.zib]
+[HKEY_CLASSES_ROOT\ .zib]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.zw]
+[HKEY_CLASSES_ROOT\ .zw]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.zxe]
+[HKEY_CLASSES_ROOT\ .zxe]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.123]
+[HKEY_CLASSES_ROOT\ .123]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.21]
+[HKEY_CLASSES_ROOT\ .21]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.3]
+[HKEY_CLASSES_ROOT\ .3]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.3D]
+[HKEY_CLASSES_ROOT\ .3D]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.5]
+[HKEY_CLASSES_ROOT\ .5]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.6]
+[HKEY_CLASSES_ROOT\ .6]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.8bit]
+[HKEY_CLASSES_ROOT\ .8bit]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.JRS]
+[HKEY_CLASSES_ROOT\ .JRS]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.P7x]
+[HKEY_CLASSES_ROOT\ .P7x]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.pRi]
+[HKEY_CLASSES_ROOT\ .pRi]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.WinMD]
+[HKEY_CLASSES_ROOT\ .WinMD]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.SCCD]
+[HKEY_CLASSES_ROOT\ .SCCD]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.CHM]
+[HKEY_CLASSES_ROOT\ .CHM]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.RTF]
+[HKEY_CLASSES_ROOT\ .RTF]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.CHK]
+[HKEY_CLASSES_ROOT\ .CHK]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.SkR]
+[HKEY_CLASSES_ROOT\ .SkR]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.ani]
+[HKEY_CLASSES_ROOT\ .ani]
 
 @="anifile"
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.BAK]
+[HKEY_CLASSES_ROOT\ .BAK]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.bat]
+[HKEY_CLASSES_ROOT\ .bat]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.bin]
+[HKEY_CLASSES_ROOT\ .bin]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.cmd]
+[HKEY_CLASSES_ROOT\ .cmd]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.conf]
+[HKEY_CLASSES_ROOT\ .conf]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.dat]
+[HKEY_CLASSES_ROOT\ .dat]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.DLL]
+[HKEY_CLASSES_ROOT\ .DLL]
 
 @="Dynamic Link Libary (*.DLL)"
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.doc]
+[HKEY_CLASSES_ROOT\ .doc]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.en]
+[HKEY_CLASSES_ROOT\ .en]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.exe]
+[HKEY_CLASSES_ROOT\ .exe]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.Go]
+[HKEY_CLASSES_ROOT\ .Go]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.inv]
+[HKEY_CLASSES_ROOT\ .inv]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.jar]
+[HKEY_CLASSES_ROOT\ .jar]
 
 @="WinRAR"
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.jav]
+[HKEY_CLASSES_ROOT\ .jav]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.java]
+[HKEY_CLASSES_ROOT\ .java]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.json]
+[HKEY_CLASSES_ROOT\ .json]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.lnk]
+[HKEY_CLASSES_ROOT\ .lnk]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.mak]
+[HKEY_CLASSES_ROOT\ .mak]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.manifest]
+[HKEY_CLASSES_ROOT\ .manifest]
 
 "PerceivedType"="text"
 
 "PercievedType #Backup"="System"
 
-[HKEY_CLASSES_ROOT\.markdown]
+[HKEY_CLASSES_ROOT\ .markdown]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.MD]
+[HKEY_CLASSES_ROOT\ .MD]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.md5]
+[HKEY_CLASSES_ROOT\ .md5]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.mk]
+[HKEY_CLASSES_ROOT\ .mk]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.mydocs]
+[HKEY_CLASSES_ROOT\ .mydocs]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.nfo]
+[HKEY_CLASSES_ROOT\ .nfo]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.obj]
+[HKEY_CLASSES_ROOT\ .obj]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.ocx]
+[HKEY_CLASSES_ROOT\ .ocx]
 
 "PerceivedType #Backup"="system"
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.ps]
+[HKEY_CLASSES_ROOT\ .ps]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.ps1]
+[HKEY_CLASSES_ROOT\ .ps1]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.ps1xml]
+[HKEY_CLASSES_ROOT\ .ps1xml]
 
 "PerceivedType"="Text"
 
-[HKEY_CLASSES_ROOT\.psc1]
+[HKEY_CLASSES_ROOT\ .psc1]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.psd]
+[HKEY_CLASSES_ROOT\ .psd]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.psd1]
+[HKEY_CLASSES_ROOT\ .psd1]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.psm1]
+[HKEY_CLASSES_ROOT\ .psm1]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.Py]
+[HKEY_CLASSES_ROOT\ .Py]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.reg]
+[HKEY_CLASSES_ROOT\ .reg]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.sha1]
+[HKEY_CLASSES_ROOT\ .sha1]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.sys]
+[HKEY_CLASSES_ROOT\ .sys]
 
 @="sysfile"
 
@@ -2722,49 +2722,49 @@ Windows Registry Editor Version 5.00
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.text]
+[HKEY_CLASSES_ROOT\ .text]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.txt]
+[HKEY_CLASSES_ROOT\ .txt]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.vbs]
+[HKEY_CLASSES_ROOT\ .vbs]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.vbx]
+[HKEY_CLASSES_ROOT\ .vbx]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.xaml]
+[HKEY_CLASSES_ROOT\ .xaml]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.xml]
+[HKEY_CLASSES_ROOT\ .xml]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.xyz]
+[HKEY_CLASSES_ROOT\ .xyz]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.xz]
+[HKEY_CLASSES_ROOT\ .xz]
 
 @="WinRAR"
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.cfg]
+[HKEY_CLASSES_ROOT\ .cfg]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.ini]
+[HKEY_CLASSES_ROOT\ .ini]
 
 "PerceivedType"="text"
 
-[HKEY_CLASSES_ROOT\.]
+[HKEY_CLASSES_ROOT\ .]
 
 "PerceivedType"="text"
 
